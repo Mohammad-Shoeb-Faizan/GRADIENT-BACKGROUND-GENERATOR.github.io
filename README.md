@@ -1,2 +1,2 @@
 # GRADIENT-BACKGROUND-GENERATOR.github.io
-This is a fun website to use in day-today-life. Are you curious about my journey creating it then look into Read-me.
+While in the journey of coding and moving forward with HTML, CSS AND JavaScript. I always have used gradients from many gradient generating websites or have searched it online, but I got a thought that, why not create my own generator and bookmark it and get my customs polymorphism backgrounds in my websites. After that thought stroked my mind, I decided to create a website and put my idea into action. The level of satisfaction I get when I use my own creation for creating more websites is indescribable. Have fun using it as I have by using it in my daily life.
